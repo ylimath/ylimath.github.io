@@ -20,5 +20,3 @@ Ph.D.,  Applied Mathematics, Shanghai University, September 2019 – June 2023\
 Visiting Ph.D. Student, University of Warsaw, March 2022-March 2023\
 M.Sc., Computational Mathematics, Shanghai University, September 2017 – June 2019
 
-#### Grant
-Postdoctoral Fellowship Program of CPSF,  Grant Number: GZC20242215
