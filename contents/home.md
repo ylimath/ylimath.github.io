@@ -1,16 +1,20 @@
 
+[![ylimath]](https://img.shields.io/badge/ylimath-github-blue?logo=github)](https://github.com/ylimath)
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am currently a postdoctoral researcher at Harbin Institute of Technology, working with Professor [[Chao Zhang]](http://homepage-hit-edu-cn-s.ivpn.hit.edu.cn:1080/zhangchao).
+Prior to this, I completed my Ph.D. at Shanghai University under the guidance of Professor[[Fengping Yao]](https://math.shu.edu.cn/info/1019/3040.htm). 
+During my Ph.D. studies, I was a joint Ph.D. student under the mentorship of Professor [[Iwona Chlebicka]](https://www.mimuw.edu.pl/~ichlebicka/) supported by the China CSC Scholarship.
 
 #### Email
-sli[at]cumt.edu.cn
+lymath@hit.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+D.E.,  Applied Mathematics, Shanghai University, 2019.9—2023.6 .\
+M.E., Computational  Mathematics, Shanghai University, 2017.9—2019.6 .
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+My research interests primarily concern the existence and uniqueness of very weak solutions to elliptic and parabolic equations with non-standard growth, 
+including entropy solutions and renormalized solutions. I am also currently investigating the regularity of solutions to such equations.
 
+#### Grant
+Postdoctoral Fellowship Program of CPSF,  Grant Number: GZC20242215

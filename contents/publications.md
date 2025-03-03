@@ -1,12 +1,12 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
+-[6] <strong>Y. Li</strong>, C. Zhang* (2024). Renormalized Solutions for the Non-local Equations in Fractional Musielak–Sobolev Spaces. <strong>Journal of Geometric Analysis.</strong>[[Paper]](https://link.springer.com/article/10.1007/s12220-024-01835-y)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+-[5] <strong>Y. Li</strong>, C. Zhang* (2024). Entropy solutions to the fully nonlocal diffusion equations. <strong>Mathematische Nachrichten.</strong>[[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/mana.202400130)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+-[4] B. Budnarowski, <strong>Y. Li*</strong>(2023).  Existence of renormalized solutions to fully anisotropic and inhomogeneous elliptic problems. <strong>Proceedings of the Royal Society of Edinburgh Section A: Mathematics.</strong>
+[[Paper]](https://www.cambridge.org/core/journals/proceedings-of-the-royal-society-of-edinburgh-section-a-mathematics/article/existence-of-renormalized-solutions-to-fully-anisotropic-and-inhomogeneous-elliptic-problems/845D3FBC7CE0063A7B39DC5BC3D71A7F)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+-[3] I. Chlebicka*,  A. Karppinen, <strong>Y. Li</strong>. (2023). A direct proof of existence of weak solutions to elliptic problems.<strong>Topological Methods in Nonlinear Analysis.</strong>[[Paper]](https://apcz.umk.pl/TMNA/article/view/47718)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+-[2] <strong>Y. Li*</strong>, F. Yao, S. Zhou (2021). Entropy and renormalized solutions to the general nonlinear elliptic equations in Musielak-Orlicz spaces. <strong>Nonlinear Analysis. Real World Applications.</strong>[[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S1468121821000420)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+-[1] <strong>Y. Li</strong>, F. Yao* (2021). Besov regularity estimates for the elliptic p(x)-Laplacian equation with the logarithmic growth. <strong>Journal of Mathematical Analysis and Applications.</strong>[[Paper]](https://www.sciencedirect.com/science/article/pii/S0022247X21000536?via%3Dihub)
