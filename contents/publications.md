@@ -1,3 +1,5 @@
+-[7]  D. LI, <strong>Y. Li</strong>, C. Zhang* (2024). Renormalized and Entropy Solution for the Fractional 1-Laplacian Parabolic Equation. <strong>Journal of  Evolution Equation</strong>
+
 -[6] <strong>Y. Li</strong>, C. Zhang* (2024). Renormalized Solutions for the Non-local Equations in Fractional Musielak–Sobolev Spaces. <strong>Journal of Geometric Analysis.</strong>[[Paper]](https://link.springer.com/article/10.1007/s12220-024-01835-y)
 
 -[5] <strong>Y. Li</strong>, C. Zhang* (2024). Entropy solutions to the fully nonlocal diffusion equations. <strong>Mathematische Nachrichten.</strong>[[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/mana.202400130)
