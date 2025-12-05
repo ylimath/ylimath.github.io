@@ -16,7 +16,7 @@ including entropy solutions and renormalized solutions. I am also currently inve
 Postdoctoral researcher, Harbin Institute of Technology, August 2023-present 
 
 #### Education
-Ph.D.,  Applied Mathematics, Shanghai University, September 2019 – June 2023\
+Ph.D.,  Shanghai University, September 2019 – June 2023\
 Visiting Ph.D. Student, University of Warsaw, March 2022-March 2023\
-M.Sc., Computational Mathematics, Shanghai University, September 2017 – June 2019
+M.Sc.,  Shanghai University, September 2017 – June 2019
 
