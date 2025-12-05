@@ -1,4 +1,6 @@
-
+2025
+-[[Equivalence between superharmonic functions
+and locally renormalized solutions]]. Jilin University, 东北天元数学中心.
 
 2023
 
