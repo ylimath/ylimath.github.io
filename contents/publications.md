@@ -1,4 +1,4 @@
--[8] <strong>Y. Li</strong>, C. Zhang* (2025). Renormalized  and entropy solutions to the  general nonlinear parabolic equations in Musielak-Orlicz spaces. <strong>Journal of the Australian Mathematical Society.</strong> To appear.
+-[8] <strong>Y. Li</strong>, C. Zhang* (2025). Renormalized  and entropy solutions to the  general nonlinear parabolic equations in Musielak-Orlicz spaces. <strong>Journal of the Australian Mathematical Society.</strong> [[Paper]](https://www.cambridge.org/core/journals/journal-of-the-australian-mathematical-society/article/abs/renormalized-and-entropy-solutions-to-the-general-nonlinear-parabolic-equations-in-musielakorlicz-spaces/07778B04F389FF4D6F2E5096CE78A33C).
 
 
 -[7]  D. Li, <strong>Y. Li</strong>, C. Zhang* (2025). Renormalized and Entropy Solution for the Fractional 1-Laplacian Parabolic Equation. <strong>Journal of  Evolution Equation</strong> [[Paper]](https://link.springer.com/article/10.1007/s00028-025-01088-4)
