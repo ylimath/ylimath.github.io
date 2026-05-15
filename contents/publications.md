@@ -1,12 +1,12 @@
 
-##Submitted
+<h3>Submitted<h3>
 
 
 -[1] <strong>Y. Li</strong>, C. Zhang*. Gradient estimates for nonlinear elliptic equations with Orlicz growth and measure data. <strong>arXiv:2603.09087</strong>[[Preprint]](https://arxiv.org/abs/2603.09087).
 
 
 
-##Published
+<h3>Published<h3>
 
 -[8] <strong>Y. Li</strong>, C. Zhang* (2025). Renormalized  and entropy solutions to the  general nonlinear parabolic equations in Musielak-Orlicz spaces. <strong>Journal of the Australian Mathematical Society.</strong> [[Paper]](https://www.cambridge.org/core/journals/journal-of-the-australian-mathematical-society/article/abs/renormalized-and-entropy-solutions-to-the-general-nonlinear-parabolic-equations-in-musielakorlicz-spaces/07778B04F389FF4D6F2E5096CE78A33C).
 
