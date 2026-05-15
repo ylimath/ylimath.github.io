@@ -10,8 +10,7 @@ lymath@hit.edu.cn
 
 #### Research Interests
 My research interests primarily concern the existence and uniqueness of very weak solutions to elliptic and parabolic equations with non-standard growth, 
-including entropy solutions and renormalized solutions. I am also currently investigating the regularity of solutions to such equations.
-
+including entropy solutions and renormalized solutions. 
 #### Employment
 Postdoctoral researcher, Harbin Institute of Technology, August 2023-present 
 
