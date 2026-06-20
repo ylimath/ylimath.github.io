@@ -1,5 +1,9 @@
-2025
 
+2026
+-[Gradient estimates for nonlinear elliptic equations with Orlicz growth and measure data]. The 2nd Tianyuan Northeast Center Conference on PDEs for Young Scholars. LiaoNing University, 6.26-6.28, 2026. 
+
+
+2025
 
 -[Equivalence between superharmonic functions
 and locally renormalized solutions]. Jilin University, 东北天元数学中心. 5.17-5.19, 2025.
