@@ -4,6 +4,9 @@
 
 -[1] <strong>Y. Li</strong>, C. Zhang*. Gradient estimates for nonlinear elliptic equations with Orlicz growth and measure data. <strong>arXiv:2603.09087</strong>[[Preprint]](https://arxiv.org/abs/2603.09087).
 
+-[2] I. Chlebicka, M. Kim^*,  </strong>Y. Li</strong>, C. Zhang. Orlicz Potential Theory: Balayage, Riesz Measures, and Very Weak Solutions.  <strong>arXiv:2606.29912
+</strong>[[Preprint]](https://arxiv.org/abs/2606.29912).
+
 
 
 #### Published
